@@ -1,0 +1,2 @@
+class Topicss < ApplicationRecord
+end
